@@ -8,5 +8,8 @@ There are some constraints regarding the trajectory, fuel and oxidizer selection
 The project was done for the final project of MECH 427 - Introduction to Propulsion Systems course at Koc University
 The material can be used as a reference yet should not be copied to be used in upcoming projects.
 
+## Scenarios
+There are three different scenarios under the name mainX.m, mainY.m, mainZ.m, which all use the same framework yet follow different paths by utilizing different strategies!
+
 ## Contributors
 - Hakancan Ozturk

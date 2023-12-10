@@ -1,7 +1,3 @@
-To create a GitHub README.md for your MECH427 Final Project on Lunar Descent Vehicle Design, the content should be concise and focused, providing essential information while linking to more detailed sections of the project. Below is a suggested format:
-
----
-
 # MECH427: Lunar Descent Vehicle Design Project
 
 ## Overview

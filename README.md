@@ -25,9 +25,6 @@ Design a vehicle to transport a payload from lunar orbit to the lunar surface, f
 ## Getting Started
 Instructions on how to navigate the repository, set up the simulation environment, and run simulations.
 
-## Contributing
-Guidelines for contributing to the project, including coding standards and submission processes.
-
 ## License
 The findings within this repo can be used as guidance, yet should not be used for the MECH 427 course project.
 
